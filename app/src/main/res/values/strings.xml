@@ -11,7 +11,7 @@
     <string name="course_title_android_dev_intermediate">Android Development Intermediate</string>
     <string name="course_title_web_dev_basic">Web Development Basic</string>
     <string name="course_title_web_dev_intermediate">Web Development Intermediate</string>
-
+    <string name="NA">NA</string>
 
     <string-array name="array_course_titles">
         <item>@string/course_title_android_dev_basic</item>
@@ -19,5 +19,19 @@
         <item>@string/course_title_web_dev_basic</item>
         <item>@string/course_title_web_dev_intermediate</item>
     </string-array>
+
+    <string-array name="array_course_abb">
+        <item>AB</item>
+        <item>AI</item>
+        <item>WB</item>
+        <item>WI</item>
+    </string-array>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="gis_2k18_logo">GIS 2k18 LOGO</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="reset_here">Reset here.</string>
 
 </resources>
